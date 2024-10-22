@@ -8,6 +8,15 @@ h1 {
     font-weight: 800;
 }
 
+span {
+    font-size: 10px;
+    padding: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
+    background: #000;
+    color: #fff;
+}
+
 h2 {
     text-align: center;
     font-weight: 600;
@@ -162,4 +171,3 @@ h6 {
     text-align: center;
     font-size: 10px;
 }
-
